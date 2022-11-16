@@ -1,1 +1,1 @@
-my read me file for simple_shell/group work
+Group project two - 0x16. C - Simple Shell
